@@ -459,26 +459,6 @@ CGTN俄语:
   recap: 7
   preview: 2
 
-CNC中文:
-  name:
-    - CNC中文
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-CNC英文:
-  name:
-    - CNC英文
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
 歌华导视:
   name:
     - 歌华导视
@@ -949,81 +929,11 @@ CNC英文:
   recap: 7
   preview: 2
 
-澳亚卫视:
-  name:
-    - 澳亚卫视
-  scraper:
-    tvmao: MASTV1
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-香港卫视:
-  name:
-    - 香港卫视
-  scraper:
-    tvmao: HKS
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-翡翠台:
-  name:
-    - 翡翠台
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-明珠台:
-  name:
-    - 明珠台
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-凤凰中文:
-  name:
-    - 凤凰中文
-  scraper:
-    mytvsuper: PCC
-  lang: tc
-  refresh: once
-  recap: 7
-  preview: 2
-
-凤凰资讯:
-  name:
-    - 凤凰资讯
-  scraper:
-    mytvsuper: PIN
-  lang: tc
-  refresh: once
-  recap: 7
-  preview: 2
-
-凤凰香港:
-  name:
-    - 凤凰香港
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
 CHC家庭影院:
   name:
     - CHC家庭影院
   scraper:
-    tvmao: 
+    tvmao: CHC2
     cctv: 
   refresh: once
   recap: 7
@@ -1033,7 +943,7 @@ CHC高清电影:
   name:
     - CHC高清电影
   scraper:
-    tvmao: 
+    tvmao: CHC3
     cctv: 
   refresh: once
   recap: 7
@@ -1043,7 +953,7 @@ CHC动作电影:
   name:
     - CHC动作电影
   scraper:
-    tvmao: 
+    tvmao: CHC1
     cctv: 
   refresh: once
   recap: 7
@@ -1053,7 +963,7 @@ CHC动作电影:
   name:
     - 摄影
   scraper:
-    tvmao: 
+    tvmao: PHOTOGRAPHY-CHANNEL
     cctv: 
   refresh: once
   recap: 7
@@ -1063,7 +973,7 @@ CHC动作电影:
   name:
     - 书画
   scraper:
-    tvmao: 
+    tvmao: CCTVPAYFEE37
     cctv: 
   refresh: once
   recap: 7
@@ -1073,7 +983,7 @@ CHC动作电影:
   name:
     - 国学
   scraper:
-    tvmao: 
+    tvmao: SHUOWENJIEZI
     cctv: 
   refresh: once
   recap: 7
@@ -1083,7 +993,7 @@ CHC动作电影:
   name:
     - 天元围棋
   scraper:
-    tvmao: 
+    tvmao: TIANYUANWEIQI
     cctv: 
   refresh: once
   recap: 7
@@ -1093,7 +1003,7 @@ CHC动作电影:
   name:
     - 汽摩
   scraper:
-    tvmao: 
+    tvmao: CCTVPAYFEE22
     cctv: 
   refresh: once
   recap: 7
@@ -1103,7 +1013,7 @@ CHC动作电影:
   name:
     - 发现之旅
   scraper:
-    tvmao: 
+    tvmao: CCTVFXZL
     cctv: 
   refresh: once
   recap: 7
@@ -1113,17 +1023,7 @@ CHC动作电影:
   name:
     - 老故事
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-中学生:
-  name:
-    - 中学生
-  scraper:
-    tvmao: 
+    tvmao: CCTVLAOGUSHI
     cctv: 
   refresh: once
   recap: 7
@@ -1133,7 +1033,7 @@ CHC动作电影:
   name:
     - 环球奇观
   scraper:
-    tvmao: 
+    tvmao: HUANQIUQIGUAN
     cctv: 
   refresh: once
   recap: 7
@@ -1143,7 +1043,7 @@ CHC动作电影:
   name:
     - 欢笑剧场
   scraper:
-    tvmao: 
+    tvmao: SITV-MOVIES
     cctv: 
   refresh: once
   recap: 7
@@ -1153,7 +1053,7 @@ CHC动作电影:
   name:
     - 劲爆体育
   scraper:
-    tvmao: 
+    tvmao: SITV-SPORTS
     cctv: 
   refresh: once
   recap: 7
@@ -1163,7 +1063,7 @@ CHC动作电影:
   name:
     - 快乐垂钓
   scraper:
-    tvmao: 
+    tvmao: KUAILECHUIDIAO
     cctv: 
   refresh: once
   recap: 7
@@ -1173,17 +1073,7 @@ CHC动作电影:
   name:
     - 金鹰纪实
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-戏曲精选:
-  name:
-    - 戏曲精选
-  scraper:
-    tvmao: 
+    tvmao: HNETV3
     cctv: 
   refresh: once
   recap: 7
@@ -1193,7 +1083,7 @@ CHC动作电影:
   name:
     - 上海东方影视
   scraper:
-    tvmao: 
+    tvmao: SHHAI4
     cctv: 
   refresh: once
   recap: 7
@@ -1203,7 +1093,7 @@ CHC动作电影:
   name:
     - 上海五星体育
   scraper:
-    tvmao: 
+    tvmao: SHHAI5
     cctv: 
   refresh: once
   recap: 7
@@ -1213,17 +1103,7 @@ CHC动作电影:
   name:
     - 新视觉
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-卡酷少儿:
-  name:
-    - 卡酷少儿
-  scraper:
-    tvmao: 
+    tvmao: SITV30
     cctv: 
   refresh: once
   recap: 7
@@ -1233,7 +1113,7 @@ CHC动作电影:
   name:
     - 茶频道
   scraper:
-    tvmao: 
+    tvmao: DOCUMENTARY-CHANNEL
     cctv: 
   refresh: once
   recap: 7
@@ -1243,17 +1123,7 @@ CHC动作电影:
   name:
     - 魅力足球
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-炫动卡通:
-  name:
-    - 炫动卡通
-  scraper:
-    tvmao: 
+    tvmao: SITV-YULE
     cctv: 
   refresh: once
   recap: 7
@@ -1263,7 +1133,7 @@ CHC动作电影:
   name:
     - 乐游
   scraper:
-    tvmao: 
+    tvmao: SITV-DOCUMENTARY
     cctv: 
   refresh: once
   recap: 7
@@ -1273,7 +1143,7 @@ CHC动作电影:
   name:
     - 四海钓鱼
   scraper:
-    tvmao: 
+    tvmao: BAMC4
     cctv: 
   refresh: once
   recap: 7
@@ -1283,7 +1153,7 @@ CHC动作电影:
   name:
     - 环球旅游
   scraper:
-    tvmao: 
+    tvmao: BAMC6
     cctv: 
   refresh: once
   recap: 7
@@ -1293,7 +1163,7 @@ CHC动作电影:
   name:
     - 都市剧场
   scraper:
-    tvmao: 
+    tvmao: SITV-MOVIE
     cctv: 
   refresh: once
   recap: 7
@@ -1303,7 +1173,7 @@ CHC动作电影:
   name:
     - 动漫秀场
   scraper:
-    tvmao: 
+    tvmao: SITV-CHILDREN
     cctv: 
   refresh: once
   recap: 7
@@ -1313,7 +1183,7 @@ CHC动作电影:
   name:
     - 游戏风云
   scraper:
-    tvmao: 
+    tvmao: SITV-GAME
     cctv: 
   refresh: once
   recap: 7
@@ -1323,7 +1193,7 @@ CHC动作电影:
   name:
     - 东方财经
   scraper:
-    tvmao: 
+    tvmao: SITV14
     cctv: 
   refresh: once
   recap: 7
@@ -1333,7 +1203,7 @@ CHC动作电影:
   name:
     - 足球频道
   scraper:
-    tvmao: 
+    tvmao: NMGZQ
     cctv: 
   refresh: once
   recap: 7
@@ -1343,7 +1213,7 @@ CHC动作电影:
   name:
     - 中华美食
   scraper:
-    tvmao: 
+    tvmao: CHINA-FOODTV
     cctv: 
   refresh: once
   recap: 7
@@ -1353,7 +1223,7 @@ CHC动作电影:
   name:
     - 中华特产
   scraper:
-    tvmao: 
+    tvmao: ZHTCTV
     cctv: 
   refresh: once
   recap: 7
@@ -1363,7 +1233,7 @@ CHC动作电影:
   name:
     - 收藏天下
   scraper:
-    tvmao: 
+    tvmao: SHOUCANGTIAXIA
     cctv: 
   refresh: once
   recap: 7
@@ -1373,7 +1243,7 @@ CHC动作电影:
   name:
     - 上海纪实人文
   scraper:
-    tvmao: 
+    tvmao: SHHAI6
     cctv: 
   refresh: once
   recap: 7
@@ -1383,7 +1253,7 @@ CHC动作电影:
   name:
     - 弈坛春秋
   scraper:
-    tvmao: 
+    tvmao: BAMC10
     cctv: 
   refresh: once
   recap: 7
@@ -1393,7 +1263,7 @@ CHC动作电影:
   name:
     - 动感音乐
   scraper:
-    tvmao: 
+    tvmao: BAMC5
     cctv: 
   refresh: once
   recap: 7
@@ -1403,7 +1273,7 @@ CHC动作电影:
   name:
     - 百姓健康
   scraper:
-    tvmao: 
+    tvmao: CHTV
     cctv: 
   refresh: once
   recap: 7
@@ -1413,17 +1283,7 @@ CHC动作电影:
   name:
     - 生态环境
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-求索记录:
-  name:
-    - 求索记录
-  scraper:
-    tvmao: 
+    tvmao: EETV
     cctv: 
   refresh: once
   recap: 7
@@ -1433,7 +1293,7 @@ CHC动作电影:
   name:
     - 生活时尚
   scraper:
-    tvmao: 
+    tvmao: SITV-FASHION
     cctv: 
   refresh: once
   recap: 7
@@ -1443,7 +1303,7 @@ CHC动作电影:
   name:
     - 金鹰卡通
   scraper:
-    tvmao: 
+    tvmao: HUNANTV2
     cctv: 
   refresh: once
   recap: 7
@@ -1453,7 +1313,7 @@ CHC动作电影:
   name:
     - 法治天地
   scraper:
-    tvmao: 
+    tvmao: SITV3
     cctv: 
   refresh: once
   recap: 7
@@ -1463,7 +1323,7 @@ CHC动作电影:
   name:
     - 金色学堂
   scraper:
-    tvmao: 
+    tvmao: SITV6
     cctv: 
   refresh: once
   recap: 7
@@ -1473,7 +1333,7 @@ CHC动作电影:
   name:
     - 京视剧场
   scraper:
-    tvmao: 
+    tvmao: BAMC8
     cctv: 
   refresh: once
   recap: 7
