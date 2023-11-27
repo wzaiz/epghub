@@ -83,7 +83,7 @@ cctv6:
 
 cctv7:
   name:
-    - CCTV2
+    - CCTV7
   scraper:
     cctv:
   refresh: once
@@ -120,7 +120,7 @@ cctv10:
 
 cctv11:
   name:
-    - CCTV2
+    - CCTV11
   scraper:
     cctv:
   refresh: once
@@ -129,7 +129,7 @@ cctv11:
 
 cctv12:
   name:
-    - CCTV2
+    - CCTV12
   scraper:
     cctv:
   refresh: once
@@ -147,7 +147,7 @@ cctv13:
 
 cctv14:
   name:
-    - CCTV2
+    - CCTV14
   scraper:
     cctv:
   refresh: once
@@ -156,7 +156,7 @@ cctv14:
 
 cctv15:
   name:
-    - CCTV2
+    - CCTV15
   scraper:
     cctv:
   refresh: once
@@ -174,7 +174,7 @@ cctv16:
 
 cctv17:
   name:
-    - CCTV2
+    - CCTV17
   scraper:
     cctv:
   refresh: once
