@@ -399,9 +399,69 @@ cctv8k:
   recap: 7
   preview: 2
 
-【频道id】:
+CGTN英语:
   name:
-    - 【频道name】
+    - CGTN英语
+  scraper:
+    tvmao: CCTV19
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN纪录:
+  name:
+    - CGTN纪录
+  scraper:
+    tvmao: CCTV18
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN西班牙语:
+  name:
+    - CGTN西班牙语
+  scraper:
+    tvmao: CCTV17
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN法语:
+  name:
+    - CGTN法语
+  scraper:
+    tvmao: CCTVF
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN阿拉伯语:
+  name:
+    - CGTN阿拉伯语
+  scraper:
+    tvmao: CCTVA
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN俄语:
+  name:
+    - CGTN俄语
+  scraper:
+    tvmao: CCTVR
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CNC中文:
+  name:
+    - CNC中文
   scraper:
     tvmao: 
     cctv: 
@@ -409,9 +469,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-【频道id】:
+CNC英文:
   name:
-    - 【频道name】
+    - CNC英文
   scraper:
     tvmao: 
     cctv: 
@@ -419,31 +479,11 @@ cctv8k:
   recap: 7
   preview: 2
 
-【频道id】:
+歌华导视:
   name:
-    - 【频道name】
+    - 歌华导视
   scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-【频道id】:
-  name:
-    - 【频道name】
-  scraper:
-    tvmao: 
-    cctv: 
-  refresh: once
-  recap: 7
-  preview: 2
-
-【频道id】:
-  name:
-    - 【频道name】
-  scraper:
-    tvmao: 
+    tvmao: GHDAOSHI
     cctv: 
   refresh: once
   recap: 7
