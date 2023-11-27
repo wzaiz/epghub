@@ -1,17 +1,17 @@
 # Channel list
 ---
-cctv1:
+CCTV1:
   name:
-    - CCTV1 综合
+    - CCTV1
   scraper:
     cctv:
   refresh: once
   recap: 7
   preview: 2
 
-cctv2:
+CCTV2:
   name:
-    - CCTV2 财经
+    - CCTV2
   scraper:
     cctv:
   refresh: once
@@ -20,7 +20,7 @@ cctv2:
 
 cctv3:
   name:
-    - CCTV3 综艺
+    - CCTV3
   scraper:
     cctv:
   refresh: once
@@ -29,7 +29,7 @@ cctv3:
 
 cctv4:
   name:
-    - CCTV4 中文国际
+    - CCTV4
   scraper:
     cctv:
   refresh: once
@@ -38,7 +38,7 @@ cctv4:
 
 cctv5:
   name:
-    - CCTV5 体育
+    - CCTV5
   scraper:
     cctv:
   refresh: once
@@ -47,7 +47,7 @@ cctv5:
 
 cctv5+:
   name:
-    - CCTV5+ 体育赛事
+    - CCTV5+
   scraper:
     cctv: cctv5plus
   refresh: once
@@ -56,7 +56,7 @@ cctv5+:
 
 cctv6:
   name:
-    - CCTV6 电影
+    - CCTV6
   scraper:
     cctv:
   refresh: once
@@ -65,7 +65,7 @@ cctv6:
 
 cctv8:
   name:
-    - CCTV8 电视剧
+    - CCTV8
   scraper:
     cctv:
   refresh: once
@@ -74,7 +74,7 @@ cctv8:
 
 cctv9:
   name:
-    - CCTV9 纪录
+    - CCTV9
   scraper:
     cctv: cctvjilu
   plugin: weibo_cctv9
@@ -84,7 +84,7 @@ cctv9:
 
 cctv10:
   name:
-    - CCTV10 科教
+    - CCTV10
   scraper:
     cctv:
   refresh: once
@@ -93,7 +93,7 @@ cctv10:
 
 cctv13:
   name:
-    - CCTV13 新闻
+    - CCTV13
   scraper:
     cctv:
   refresh: once
@@ -102,7 +102,7 @@ cctv13:
 
 cctv16:
   name:
-    - CCTV16 奥林匹克
+    - CCTV16
   scraper:
     cctv:
   refresh: once
@@ -111,7 +111,7 @@ cctv16:
 
 cctv4k:
   name:
-    - CCTV4K 超高清
+    - CCTV4K
   scraper:
     cctv:
   refresh: once
@@ -120,7 +120,7 @@ cctv4k:
 
 cctv8k:
   name:
-    - CCTV8K 超高清
+    - CCTV8K
   scraper:
     cctv:
   refresh: once
