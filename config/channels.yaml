@@ -149,7 +149,7 @@ cctv14:
   name:
     - CCTV14
   scraper:
-    cctv:
+    cctv: cctvchild
   refresh: once
   recap: 7
   preview: 2
@@ -205,6 +205,26 @@ zhejiangtv:
   scraper:
     tvmao: ZJTV1
     cctv: zhejiang
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国天气:
+  name:
+    - 中国天气
+  scraper:
+    tvmao: CHINA-WEATHER-TV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国交通:
+  name:
+    - 中国交通
+  scraper:
+    tvmao: ZGJTPD
+    cctv: 
   refresh: once
   recap: 7
   preview: 2
