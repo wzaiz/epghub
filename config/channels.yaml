@@ -1,6 +1,6 @@
 # Channel list
 ---
-CCTV1:
+cctv1:
   name:
     - CCTV1
   scraper:
@@ -9,7 +9,7 @@ CCTV1:
   recap: 7
   preview: 2
 
-CCTV2:
+cctv2:
   name:
     - CCTV2
   scraper:
@@ -30,6 +30,24 @@ cctv3:
 cctv4:
   name:
     - CCTV4
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctveurope:
+  name:
+    - CCTV4欧洲
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctvamerica:
+  name:
+    - CCTV4美洲
   scraper:
     cctv:
   refresh: once
@@ -57,6 +75,15 @@ cctv5+:
 cctv6:
   name:
     - CCTV6
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv7:
+  name:
+    - CCTV2
   scraper:
     cctv:
   refresh: once
@@ -91,6 +118,24 @@ cctv10:
   recap: 7
   preview: 2
 
+cctv11:
+  name:
+    - CCTV2
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv12:
+  name:
+    - CCTV2
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
 cctv13:
   name:
     - CCTV13
@@ -100,9 +145,36 @@ cctv13:
   recap: 7
   preview: 2
 
+cctv14:
+  name:
+    - CCTV2
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv15:
+  name:
+    - CCTV2
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
 cctv16:
   name:
     - CCTV16
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv17:
+  name:
+    - CCTV2
   scraper:
     cctv:
   refresh: once
