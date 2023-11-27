@@ -199,16 +199,6 @@ cctv8k:
   recap: 7
   preview: 2
 
-zhejiangtv:
-  name:
-    - 浙江卫视
-  scraper:
-    tvmao: ZJTV1
-    cctv: zhejiang
-  refresh: once
-  recap: 7
-  preview: 2
-
 中国天气:
   name:
     - 中国天气
@@ -225,6 +215,56 @@ zhejiangtv:
   scraper:
     tvmao: ZGJTPD
     cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育1台:
+  name:
+    - 中国教育1台
+  scraper:
+    tvmao: CETV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育2台:
+  name:
+    - 中国教育2台
+  scraper:
+    tvmao: CETV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育3台:
+  name:
+    - 中国教育3台
+  scraper:
+    tvmao: CETV3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育4台:
+  name:
+    - 中国教育4台
+  scraper:
+    tvmao: CETV4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+zhejiangtv:
+  name:
+    - 浙江卫视
+  scraper:
+    tvmao: ZJTV1
+    cctv: zhejiang
   refresh: once
   recap: 7
   preview: 2
