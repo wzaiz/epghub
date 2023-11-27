@@ -503,7 +503,7 @@ CNC英文:
   name:
     - 北京文艺
   scraper:
-    tvmao: 
+    tvmao: BTV2
     cctv: 
   refresh: once
   recap: 7
@@ -513,7 +513,7 @@ CNC英文:
   name:
     - 北京科教BTV-3
   scraper:
-    tvmao: 
+    tvmao: BTV12
     cctv: 
   refresh: once
   recap: 7
@@ -523,7 +523,7 @@ CNC英文:
   name:
     - 北京影视
   scraper:
-    tvmao: 
+    tvmao: BTV4
     cctv: 
   refresh: once
   recap: 7
@@ -533,7 +533,7 @@ CNC英文:
   name:
     - 北京财经
   scraper:
-    tvmao: 
+    tvmao: BTV5
     cctv: 
   refresh: once
   recap: 7
@@ -543,7 +543,7 @@ CNC英文:
   name:
     - 北京体育休闲
   scraper:
-    tvmao: 
+    tvmao: BTV3
     cctv: 
   refresh: once
   recap: 7
@@ -553,7 +553,7 @@ CNC英文:
   name:
     - 北京生活
   scraper:
-    tvmao: 
+    tvmao: BTV7
     cctv: 
   refresh: once
   recap: 7
@@ -563,7 +563,7 @@ CNC英文:
   name:
     - 北京新闻
   scraper:
-    tvmao: 
+    tvmao: BTV9
     cctv: 
   refresh: once
   recap: 7
@@ -583,7 +583,7 @@ CNC英文:
   name:
     - 广西卫视
   scraper:
-    tvmao: 
+    tvmao: GUANXI1
     cctv: 
   refresh: once
   recap: 7
@@ -593,7 +593,7 @@ CNC英文:
   name:
     - 四川卫视
   scraper:
-    tvmao: 
+    tvmao: SCTV1
     cctv: 
   refresh: once
   recap: 7
@@ -613,7 +613,7 @@ CNC英文:
   name:
     - 上海教育电视台
   scraper:
-    tvmao: 
+    tvmao: SHEDU1
     cctv: 
   refresh: once
   recap: 7
@@ -623,7 +623,7 @@ CNC英文:
   name:
     - 上视外语
   scraper:
-    tvmao: 
+    tvmao: SHHAI9
     cctv: 
   refresh: once
   recap: 7
@@ -633,7 +633,7 @@ CNC英文:
   name:
     - 湖南卫视
   scraper:
-    tvmao: HUNANTV2
+    tvmao: HUNANTV1
     cctv: hunan
   refresh: once
   recap: 7
@@ -653,7 +653,7 @@ CNC英文:
   name:
     - 天津卫视
   scraper:
-    tvmao: 
+    tvmao: TJTV1
     cctv: 
   refresh: once
   recap: 7
@@ -663,7 +663,7 @@ CNC英文:
   name:
     - 辽宁卫视
   scraper:
-    tvmao: 
+    tvmao: LNTV1
     cctv: 
   refresh: once
   recap: 7
@@ -673,7 +673,7 @@ CNC英文:
   name:
     - 安徽卫视
   scraper:
-    tvmao: 
+    tvmao: AHTV1
     cctv: 
   refresh: once
   recap: 7
@@ -683,7 +683,7 @@ CNC英文:
   name:
     - 黑龙江卫视
   scraper:
-    tvmao: 
+    tvmao: HLJTV1
     cctv: 
   refresh: once
   recap: 7
@@ -693,7 +693,7 @@ CNC英文:
   name:
     - 内蒙古卫视
   scraper:
-    tvmao: 
+    tvmao: NMGTV1
     cctv: 
   refresh: once
   recap: 7
@@ -703,7 +703,7 @@ CNC英文:
   name:
     - 广东卫视
   scraper:
-    tvmao: 
+    tvmao: GDTV1
     cctv: 
   refresh: once
   recap: 7
@@ -713,7 +713,7 @@ CNC英文:
   name:
     - 深圳卫视
   scraper:
-    tvmao: 
+    tvmao: SZTV1
     cctv: 
   refresh: once
   recap: 7
@@ -723,7 +723,7 @@ CNC英文:
   name:
     - 湖北卫视
   scraper:
-    tvmao: 
+    tvmao: HUBEI1
     cctv: 
   refresh: once
   recap: 7
@@ -733,7 +733,7 @@ CNC英文:
   name:
     - 吉林卫视
   scraper:
-    tvmao: 
+    tvmao: JILIN1
     cctv: 
   refresh: once
   recap: 7
@@ -743,7 +743,7 @@ CNC英文:
   name:
     - 山东卫视
   scraper:
-    tvmao: 
+    tvmao: SDTV1
     cctv: 
   refresh: once
   recap: 7
@@ -753,7 +753,7 @@ CNC英文:
   name:
     - 山东教育卫视
   scraper:
-    tvmao: 
+    tvmao: SDETV1
     cctv: 
   refresh: once
   recap: 7
@@ -763,7 +763,7 @@ CNC英文:
   name:
     - 山西卫视
   scraper:
-    tvmao: 
+    tvmao: SXTV1
     cctv: 
   refresh: once
   recap: 7
@@ -773,7 +773,7 @@ CNC英文:
   name:
     - 陕西卫视
   scraper:
-    tvmao: 
+    tvmao: SHXITV1
     cctv: 
   refresh: once
   recap: 7
@@ -783,7 +783,7 @@ CNC英文:
   name:
     - 江西卫视
   scraper:
-    tvmao: 
+    tvmao: JXTV1
     cctv: 
   refresh: once
   recap: 7
@@ -793,7 +793,7 @@ CNC英文:
   name:
     - 河南卫视
   scraper:
-    tvmao: 
+    tvmao: HNTV1
     cctv: 
   refresh: once
   recap: 7
@@ -803,7 +803,7 @@ CNC英文:
   name:
     - 河北卫视
   scraper:
-    tvmao: 
+    tvmao: HEBEI1
     cctv: 
   refresh: once
   recap: 7
@@ -813,7 +813,7 @@ CNC英文:
   name:
     - 甘肃卫视
   scraper:
-    tvmao: 
+    tvmao: GSTV1
     cctv: 
   refresh: once
   recap: 7
@@ -823,7 +823,7 @@ CNC英文:
   name:
     - 宁夏卫视
   scraper:
-    tvmao: 
+    tvmao: NXTV2
     cctv: 
   refresh: once
   recap: 7
@@ -833,7 +833,7 @@ CNC英文:
   name:
     - 青海卫视
   scraper:
-    tvmao: 
+    tvmao: QHTV1
     cctv: 
   refresh: once
   recap: 7
@@ -843,7 +843,7 @@ CNC英文:
   name:
     - 西藏卫视
   scraper:
-    tvmao: 
+    tvmao: XIZANGTV2
     cctv: 
   refresh: once
   recap: 7
@@ -853,7 +853,7 @@ CNC英文:
   name:
     - 新疆卫视
   scraper:
-    tvmao: 
+    tvmao: XJTV1
     cctv: 
   refresh: once
   recap: 7
@@ -863,7 +863,7 @@ CNC英文:
   name:
     - 重庆卫视
   scraper:
-    tvmao: 
+    tvmao: CCQTV1
     cctv: 
   refresh: once
   recap: 7
@@ -873,7 +873,7 @@ CNC英文:
   name:
     - 东南卫视
   scraper:
-    tvmao: 
+    tvmao: FJTV2
     cctv: 
   refresh: once
   recap: 7
@@ -883,7 +883,7 @@ CNC英文:
   name:
     - 厦门卫视
   scraper:
-    tvmao: 
+    tvmao: XMTV5
     cctv: 
   refresh: once
   recap: 7
@@ -893,7 +893,7 @@ CNC英文:
   name:
     - 云南卫视
   scraper:
-    tvmao: 
+    tvmao: YNTV1
     cctv: 
   refresh: once
   recap: 7
@@ -903,7 +903,7 @@ CNC英文:
   name:
     - 贵州卫视
   scraper:
-    tvmao: 
+    tvmao: GUIZOUTV1
     cctv: 
   refresh: once
   recap: 7
@@ -913,7 +913,7 @@ CNC英文:
   name:
     - 兵团卫视
   scraper:
-    tvmao: 
+    tvmao: BINGTUAN
     cctv: 
   refresh: once
   recap: 7
@@ -923,7 +923,7 @@ CNC英文:
   name:
     - 海南卫视
   scraper:
-    tvmao: 
+    tvmao: TCTC1
     cctv: 
   refresh: once
   recap: 7
@@ -933,7 +933,7 @@ CNC英文:
   name:
     - 三沙卫视
   scraper:
-    tvmao: 
+    tvmao: SANSHATV
     cctv: 
   refresh: once
   recap: 7
@@ -943,7 +943,7 @@ CNC英文:
   name:
     - 陕西农林卫视
   scraper:
-    tvmao: 
+    tvmao: SHXITV9
     cctv: 
   refresh: once
   recap: 7
@@ -953,7 +953,7 @@ CNC英文:
   name:
     - 澳亚卫视
   scraper:
-    tvmao: 
+    tvmao: MASTV1
     cctv: 
   refresh: once
   recap: 7
@@ -963,7 +963,7 @@ CNC英文:
   name:
     - 香港卫视
   scraper:
-    tvmao: 
+    tvmao: HKS
     cctv: 
   refresh: once
   recap: 7
