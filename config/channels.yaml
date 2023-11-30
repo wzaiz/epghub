@@ -203,7 +203,7 @@ cctv8k:
   name:
     - 中国天气
   scraper:
-    tvmao: CHINA-WEATHER-TV
+    tvmao: BAMC-CHINA-WEATHER-TV
     cctv: 
   refresh: once
   recap: 7
@@ -223,7 +223,7 @@ cctv8k:
   name:
     - 中国教育1台
   scraper:
-    tvmao: CETV
+    tvmao: CETV1
     cctv: 
   refresh: once
   recap: 7
@@ -263,7 +263,7 @@ cctv8k:
   name:
     - 第一剧场
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE3
+    tvmao: CCTVPAYFEE3
     cctv: 
   refresh: once
   recap: 7
@@ -273,7 +273,7 @@ cctv8k:
   name:
     - 风云剧场
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE4
+    tvmao: CCTVPAYFEE4
     cctv: 
   refresh: once
   recap: 7
@@ -283,7 +283,7 @@ cctv8k:
   name:
     - 怀旧剧场
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE7
+    tvmao: CCTVPAYFEE7
     cctv: 
   refresh: once
   recap: 7
@@ -293,7 +293,7 @@ cctv8k:
   name:
     - 世界地理
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE5
+    tvmao: CCTVPAYFEE5
     cctv: 
   refresh: once
   recap: 7
@@ -303,7 +303,7 @@ cctv8k:
   name:
     - 风云音乐
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE2
+    tvmao: CCTVPAYFEE2
     cctv: 
   refresh: once
   recap: 7
@@ -313,7 +313,7 @@ cctv8k:
   name:
     - 兵器科技
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE8
+    tvmao: CCTVPAYFEE8
     cctv: 
   refresh: once
   recap: 7
@@ -323,7 +323,7 @@ cctv8k:
   name:
     - 风云足球
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE1
+    tvmao: CCTVPAYFEE1
     cctv: 
   refresh: once
   recap: 7
@@ -333,7 +333,7 @@ cctv8k:
   name:
     - 高尔夫网球
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE13
+    tvmao: CCTVPAYFEE13
     cctv: 
   refresh: once
   recap: 7
@@ -343,7 +343,7 @@ cctv8k:
   name:
     - 女性时尚
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE9
+    tvmao: CCTVPAYFEE9
     cctv: 
   refresh: once
   recap: 7
@@ -353,7 +353,7 @@ cctv8k:
   name:
     - 文化精品
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE14
+    tvmao: CCTVPAYFEE14
     cctv: 
   refresh: once
   recap: 7
@@ -363,7 +363,7 @@ cctv8k:
   name:
     - 央视台球
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE36
+    tvmao: CCTVPAYFEE36
     cctv: 
   refresh: once
   recap: 7
@@ -373,7 +373,7 @@ cctv8k:
   name:
     - 电视指南
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE6
+    tvmao: CCTVPAYFEE6
     cctv: 
   refresh: once
   recap: 7
@@ -383,7 +383,7 @@ cctv8k:
   name:
     - 中视购物
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE15
+    tvmao: CCTVPAYFEE15
     cctv: 
   refresh: once
   recap: 7
@@ -463,7 +463,7 @@ CGTN俄语:
   name:
     - 歌华导视
   scraper:
-    tvmao: GHDAOSHI
+    tvmao: BGCTV-GHDAOSHI
     cctv: 
   refresh: once
   recap: 7
@@ -564,7 +564,7 @@ CGTN俄语:
     - 广西卫视
   scraper:
     tvmao: GUANXI1
-    cctv: 
+    cctv: guangxi
   refresh: once
   recap: 7
   preview: 2
@@ -574,7 +574,7 @@ CGTN俄语:
     - 四川卫视
   scraper:
     tvmao: SCTV1
-    cctv: 
+    cctv: sichuan
   refresh: once
   recap: 7
   preview: 2
@@ -634,7 +634,7 @@ CGTN俄语:
     - 天津卫视
   scraper:
     tvmao: TJTV1
-    cctv: 
+    cctv: tianjin
   refresh: once
   recap: 7
   preview: 2
@@ -644,7 +644,7 @@ CGTN俄语:
     - 辽宁卫视
   scraper:
     tvmao: LNTV1
-    cctv: 
+    cctv: liaoning
   refresh: once
   recap: 7
   preview: 2
@@ -654,7 +654,7 @@ CGTN俄语:
     - 安徽卫视
   scraper:
     tvmao: AHTV1
-    cctv: 
+    cctv: anhui
   refresh: once
   recap: 7
   preview: 2
@@ -664,7 +664,7 @@ CGTN俄语:
     - 黑龙江卫视
   scraper:
     tvmao: HLJTV1
-    cctv: 
+    cctv: heilongjiang
   refresh: once
   recap: 7
   preview: 2
@@ -674,7 +674,7 @@ CGTN俄语:
     - 内蒙古卫视
   scraper:
     tvmao: NMGTV1
-    cctv: 
+    cctv: neimenggu
   refresh: once
   recap: 7
   preview: 2
@@ -684,7 +684,7 @@ CGTN俄语:
     - 广东卫视
   scraper:
     tvmao: GDTV1
-    cctv: 
+    cctv: guangdong
   refresh: once
   recap: 7
   preview: 2
@@ -694,7 +694,7 @@ CGTN俄语:
     - 深圳卫视
   scraper:
     tvmao: SZTV1
-    cctv: 
+    cctv: shenzhen
   refresh: once
   recap: 7
   preview: 2
@@ -704,7 +704,7 @@ CGTN俄语:
     - 湖北卫视
   scraper:
     tvmao: HUBEI1
-    cctv: 
+    cctv: hubei
   refresh: once
   recap: 7
   preview: 2
@@ -714,7 +714,7 @@ CGTN俄语:
     - 吉林卫视
   scraper:
     tvmao: JILIN1
-    cctv: 
+    cctv: jilin
   refresh: once
   recap: 7
   preview: 2
@@ -724,7 +724,7 @@ CGTN俄语:
     - 山东卫视
   scraper:
     tvmao: SDTV1
-    cctv: 
+    cctv: shandong
   refresh: once
   recap: 7
   preview: 2
@@ -744,7 +744,7 @@ CGTN俄语:
     - 山西卫视
   scraper:
     tvmao: SXTV1
-    cctv: 
+    cctv: shanxi
   refresh: once
   recap: 7
   preview: 2
@@ -754,7 +754,7 @@ CGTN俄语:
     - 陕西卫视
   scraper:
     tvmao: SHXITV1
-    cctv: 
+    cctv: shanxi
   refresh: once
   recap: 7
   preview: 2
@@ -764,7 +764,7 @@ CGTN俄语:
     - 江西卫视
   scraper:
     tvmao: JXTV1
-    cctv: 
+    cctv: jiangxi
   refresh: once
   recap: 7
   preview: 2
@@ -774,7 +774,7 @@ CGTN俄语:
     - 河南卫视
   scraper:
     tvmao: HNTV1
-    cctv: 
+    cctv: henan
   refresh: once
   recap: 7
   preview: 2
@@ -784,7 +784,7 @@ CGTN俄语:
     - 河北卫视
   scraper:
     tvmao: HEBEI1
-    cctv: 
+    cctv: heibei
   refresh: once
   recap: 7
   preview: 2
@@ -794,7 +794,7 @@ CGTN俄语:
     - 甘肃卫视
   scraper:
     tvmao: GSTV1
-    cctv: 
+    cctv: gansu
   refresh: once
   recap: 7
   preview: 2
@@ -804,7 +804,7 @@ CGTN俄语:
     - 宁夏卫视
   scraper:
     tvmao: NXTV2
-    cctv: 
+    cctv: ningxia
   refresh: once
   recap: 7
   preview: 2
@@ -814,7 +814,7 @@ CGTN俄语:
     - 青海卫视
   scraper:
     tvmao: QHTV1
-    cctv: 
+    cctv: qinghai
   refresh: once
   recap: 7
   preview: 2
@@ -824,7 +824,7 @@ CGTN俄语:
     - 西藏卫视
   scraper:
     tvmao: XIZANGTV2
-    cctv: 
+    cctv: xizang
   refresh: once
   recap: 7
   preview: 2
@@ -834,7 +834,7 @@ CGTN俄语:
     - 新疆卫视
   scraper:
     tvmao: XJTV1
-    cctv: 
+    cctv: xinjiang
   refresh: once
   recap: 7
   preview: 2
@@ -844,7 +844,7 @@ CGTN俄语:
     - 重庆卫视
   scraper:
     tvmao: CCQTV1
-    cctv: 
+    cctv: chongqing
   refresh: once
   recap: 7
   preview: 2
@@ -854,7 +854,7 @@ CGTN俄语:
     - 东南卫视
   scraper:
     tvmao: FJTV2
-    cctv: 
+    cctv: dongnan
   refresh: once
   recap: 7
   preview: 2
@@ -864,7 +864,7 @@ CGTN俄语:
     - 厦门卫视
   scraper:
     tvmao: XMTV5
-    cctv: 
+    cctv: xiamen
   refresh: once
   recap: 7
   preview: 2
@@ -874,7 +874,7 @@ CGTN俄语:
     - 云南卫视
   scraper:
     tvmao: YNTV1
-    cctv: 
+    cctv: yunnan
   refresh: once
   recap: 7
   preview: 2
@@ -884,7 +884,7 @@ CGTN俄语:
     - 贵州卫视
   scraper:
     tvmao: GUIZOUTV1
-    cctv: 
+    cctv: guizhou
   refresh: once
   recap: 7
   preview: 2
@@ -894,7 +894,7 @@ CGTN俄语:
     - 兵团卫视
   scraper:
     tvmao: BINGTUAN
-    cctv: 
+    cctv: bingtuan
   refresh: once
   recap: 7
   preview: 2
@@ -904,7 +904,7 @@ CGTN俄语:
     - 海南卫视
   scraper:
     tvmao: TCTC1
-    cctv: 
+    cctv: hainan
   refresh: once
   recap: 7
   preview: 2
@@ -914,7 +914,7 @@ CGTN俄语:
     - 三沙卫视
   scraper:
     tvmao: SANSHATV
-    cctv: 
+    cctv: sansha
   refresh: once
   recap: 7
   preview: 2
