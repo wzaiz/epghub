@@ -1,8 +1,329 @@
+# Channel list
+---
+cctv1:
+  name:
+    - CCTV1
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv2:
+  name:
+    - CCTV2
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv3:
+  name:
+    - CCTV3
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv4:
+  name:
+    - CCTV4
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctveurope:
+  name:
+    - CCTV4欧洲
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctvamerica:
+  name:
+    - CCTV4美洲
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv5:
+  name:
+    - CCTV5
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv5+:
+  name:
+    - CCTV5+
+  scraper:
+    cctv: cctv5plus
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv6:
+  name:
+    - CCTV6
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv7:
+  name:
+    - CCTV7
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv8:
+  name:
+    - CCTV8
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv9:
+  name:
+    - CCTV9
+  scraper:
+    cctv: cctvjilu
+  plugin: weibo_cctv9
+  refresh: today
+  recap: 7
+  preview: 2
+
+cctv10:
+  name:
+    - CCTV10
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv11:
+  name:
+    - CCTV11
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv12:
+  name:
+    - CCTV12
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv13:
+  name:
+    - CCTV13
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv14:
+  name:
+    - CCTV14
+  scraper:
+    cctv: cctvchild
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv15:
+  name:
+    - CCTV15
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv16:
+  name:
+    - CCTV16
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv17:
+  name:
+    - CCTV17
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv4k:
+  name:
+    - CCTV4K
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+cctv8k:
+  name:
+    - CCTV8K
+  scraper:
+    cctv:
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国天气:
+  name:
+    - 中国天气
+  scraper:
+    tvmao: CHINA-WEATHER-TV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国交通:
+  name:
+    - 中国交通
+  scraper:
+    tvmao: ZGJTPD
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育1台:
+  name:
+    - 中国教育1台
+  scraper:
+    tvmao: CETV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育2台:
+  name:
+    - 中国教育2台
+  scraper:
+    tvmao: CETV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育3台:
+  name:
+    - 中国教育3台
+  scraper:
+    tvmao: CETV3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中国教育4台:
+  name:
+    - 中国教育4台
+  scraper:
+    tvmao: CETV4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+第一剧场:
+  name:
+    - 第一剧场
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+风云剧场:
+  name:
+    - 风云剧场
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+怀旧剧场:
+  name:
+    - 怀旧剧场
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE7
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+世界地理:
+  name:
+    - 世界地理
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE5
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+风云音乐:
+  name:
+    - 风云音乐
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+兵器科技:
+  name:
+    - 兵器科技
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE8
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
 风云足球:
   name:
     - 风云足球
   scraper:
-    tvmao: CCTVPAYFEE-CCTVPAYFEE13
+    tvmao: CCTVPAYFEE-CCTVPAYFEE1
     cctv: 
   refresh: once
   recap: 7
@@ -12,8 +333,1053 @@
   name:
     - 高尔夫网球
   scraper:
-    tvmao: cctvpsyfee13
+    tvmao: CCTVPAYFEE-CCTVPAYFEE13
     cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+女性时尚:
+  name:
+    - 女性时尚
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE9
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+文化精品:
+  name:
+    - 文化精品
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE14
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+央视台球:
+  name:
+    - 央视台球
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE36
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+电视指南:
+  name:
+    - 电视指南
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE6
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中视购物:
+  name:
+    - 中视购物
+  scraper:
+    tvmao: CCTVPAYFEE-CCTVPAYFEE15
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+卫生健康:
+  name:
+    - 卫生健康
+  scraper:
+    tvmao: SITV13
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN英语:
+  name:
+    - CGTN英语
+  scraper:
+    tvmao: CCTV19
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN纪录:
+  name:
+    - CGTN纪录
+  scraper:
+    tvmao: CCTV18
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN西班牙语:
+  name:
+    - CGTN西班牙语
+  scraper:
+    tvmao: CCTV17
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN法语:
+  name:
+    - CGTN法语
+  scraper:
+    tvmao: CCTVF
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN阿拉伯语:
+  name:
+    - CGTN阿拉伯语
+  scraper:
+    tvmao: CCTVA
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CGTN俄语:
+  name:
+    - CGTN俄语
+  scraper:
+    tvmao: CCTVR
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+歌华导视:
+  name:
+    - 歌华导视
+  scraper:
+    tvmao: GHDAOSHI
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京卫视:
+  name:
+    - 北京卫视
+  scraper:
+    tvmao: BTV1
+    cctv: btv1
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京文艺:
+  name:
+    - 北京文艺
+  scraper:
+    tvmao: BTV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京科教BTV-3:
+  name:
+    - 北京科教BTV-3
+  scraper:
+    tvmao: BTV12
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京影视:
+  name:
+    - 北京影视
+  scraper:
+    tvmao: BTV4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京财经:
+  name:
+    - 北京财经
+  scraper:
+    tvmao: BTV5
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京体育休闲:
+  name:
+    - 北京体育休闲
+  scraper:
+    tvmao: BTV3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京生活:
+  name:
+    - 北京生活
+  scraper:
+    tvmao: BTV7
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+北京新闻:
+  name:
+    - 北京新闻
+  scraper:
+    tvmao: BTV9
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+江苏卫视:
+  name:
+    - 江苏卫视
+  scraper:
+    tvmao: JSTV1
+    cctv: jiangsu
+  refresh: once
+  recap: 7
+  preview: 2
+
+广西卫视:
+  name:
+    - 广西卫视
+  scraper:
+    tvmao: GUANXI1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+四川卫视:
+  name:
+    - 四川卫视
+  scraper:
+    tvmao: SCTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+东方卫视:
+  name:
+    - 东方卫视
+  scraper:
+    tvmao: DONGFANG1
+    cctv: dongfang
+  refresh: once
+  recap: 7
+  preview: 2
+
+上海教育电视台:
+  name:
+    - 上海教育电视台
+  scraper:
+    tvmao: SHEDU1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+上视外语:
+  name:
+    - 上视外语
+  scraper:
+    tvmao: SHHAI9
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+湖南卫视:
+  name:
+    - 湖南卫视
+  scraper:
+    tvmao: HUNANTV1
+    cctv: hunan
+  refresh: once
+  recap: 7
+  preview: 2
+
+浙江卫视:
+  name:
+    - 浙江卫视
+  scraper:
+    tvmao: ZJTV1
+    cctv: zhejiang
+  refresh: once
+  recap: 7
+  preview: 2
+
+天津卫视:
+  name:
+    - 天津卫视
+  scraper:
+    tvmao: TJTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+辽宁卫视:
+  name:
+    - 辽宁卫视
+  scraper:
+    tvmao: LNTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+安徽卫视:
+  name:
+    - 安徽卫视
+  scraper:
+    tvmao: AHTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+黑龙江卫视:
+  name:
+    - 黑龙江卫视
+  scraper:
+    tvmao: HLJTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+内蒙古卫视:
+  name:
+    - 内蒙古卫视
+  scraper:
+    tvmao: NMGTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+广东卫视:
+  name:
+    - 广东卫视
+  scraper:
+    tvmao: GDTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+深圳卫视:
+  name:
+    - 深圳卫视
+  scraper:
+    tvmao: SZTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+湖北卫视:
+  name:
+    - 湖北卫视
+  scraper:
+    tvmao: HUBEI1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+吉林卫视:
+  name:
+    - 吉林卫视
+  scraper:
+    tvmao: JILIN1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+山东卫视:
+  name:
+    - 山东卫视
+  scraper:
+    tvmao: SDTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+山东教育卫视:
+  name:
+    - 山东教育卫视
+  scraper:
+    tvmao: SDETV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+山西卫视:
+  name:
+    - 山西卫视
+  scraper:
+    tvmao: SXTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+陕西卫视:
+  name:
+    - 陕西卫视
+  scraper:
+    tvmao: SHXITV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+江西卫视:
+  name:
+    - 江西卫视
+  scraper:
+    tvmao: JXTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+河南卫视:
+  name:
+    - 河南卫视
+  scraper:
+    tvmao: HNTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+河北卫视:
+  name:
+    - 河北卫视
+  scraper:
+    tvmao: HEBEI1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+甘肃卫视:
+  name:
+    - 甘肃卫视
+  scraper:
+    tvmao: GSTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+宁夏卫视:
+  name:
+    - 宁夏卫视
+  scraper:
+    tvmao: NXTV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+青海卫视:
+  name:
+    - 青海卫视
+  scraper:
+    tvmao: QHTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+西藏卫视:
+  name:
+    - 西藏卫视
+  scraper:
+    tvmao: XIZANGTV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+新疆卫视:
+  name:
+    - 新疆卫视
+  scraper:
+    tvmao: XJTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+重庆卫视:
+  name:
+    - 重庆卫视
+  scraper:
+    tvmao: CCQTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+东南卫视:
+  name:
+    - 东南卫视
+  scraper:
+    tvmao: FJTV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+厦门卫视:
+  name:
+    - 厦门卫视
+  scraper:
+    tvmao: XMTV5
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+云南卫视:
+  name:
+    - 云南卫视
+  scraper:
+    tvmao: YNTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+贵州卫视:
+  name:
+    - 贵州卫视
+  scraper:
+    tvmao: GUIZOUTV1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+兵团卫视:
+  name:
+    - 兵团卫视
+  scraper:
+    tvmao: BINGTUAN
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+海南卫视:
+  name:
+    - 海南卫视
+  scraper:
+    tvmao: TCTC1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+三沙卫视:
+  name:
+    - 三沙卫视
+  scraper:
+    tvmao: SANSHATV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+陕西农林卫视:
+  name:
+    - 陕西农林卫视
+  scraper:
+    tvmao: SHXITV9
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CHC家庭影院:
+  name:
+    - CHC家庭影院
+  scraper:
+    tvmao: CHC2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CHC高清电影:
+  name:
+    - CHC高清电影
+  scraper:
+    tvmao: CHC3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+CHC动作电影:
+  name:
+    - CHC动作电影
+  scraper:
+    tvmao: CHC1
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+摄影:
+  name:
+    - 摄影
+  scraper:
+    tvmao: PHOTOGRAPHY-CHANNEL
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+书画:
+  name:
+    - 书画
+  scraper:
+    tvmao: CCTVPAYFEE37
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+国学:
+  name:
+    - 国学
+  scraper:
+    tvmao: SHUOWENJIEZI
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+天元围棋:
+  name:
+    - 天元围棋
+  scraper:
+    tvmao: TIANYUANWEIQI
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+汽摩:
+  name:
+    - 汽摩
+  scraper:
+    tvmao: CCTVPAYFEE22
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+发现之旅:
+  name:
+    - 发现之旅
+  scraper:
+    tvmao: CCTVFXZL
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+老故事:
+  name:
+    - 老故事
+  scraper:
+    tvmao: CCTVLAOGUSHI
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+环球奇观:
+  name:
+    - 环球奇观
+  scraper:
+    tvmao: HUANQIUQIGUAN
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+欢笑剧场:
+  name:
+    - 欢笑剧场
+  scraper:
+    tvmao: SITV-MOVIES
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+劲爆体育:
+  name:
+    - 劲爆体育
+  scraper:
+    tvmao: SITV-SPORTS
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+快乐垂钓:
+  name:
+    - 快乐垂钓
+  scraper:
+    tvmao: KUAILECHUIDIAO
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+金鹰纪实:
+  name:
+    - 金鹰纪实
+  scraper:
+    tvmao: HNETV3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+上海东方影视:
+  name:
+    - 上海东方影视
+  scraper:
+    tvmao: SHHAI4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+上海五星体育:
+  name:
+    - 上海五星体育
+  scraper:
+    tvmao: SHHAI5
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+新视觉:
+  name:
+    - 新视觉
+  scraper:
+    tvmao: SITV30
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+茶频道:
+  name:
+    - 茶频道
+  scraper:
+    tvmao: DOCUMENTARY-CHANNEL
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+魅力足球:
+  name:
+    - 魅力足球
+  scraper:
+    tvmao: SITV-YULE
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+乐游:
+  name:
+    - 乐游
+  scraper:
+    tvmao: SITV-DOCUMENTARY
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+四海钓鱼:
+  name:
+    - 四海钓鱼
+  scraper:
+    tvmao: BAMC4
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+环球旅游:
+  name:
+    - 环球旅游
+  scraper:
+    tvmao: BAMC6
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+都市剧场:
+  name:
+    - 都市剧场
+  scraper:
+    tvmao: SITV-MOVIE
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+动漫秀场:
+  name:
+    - 动漫秀场
+  scraper:
+    tvmao: SITV-CHILDREN
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+游戏风云:
+  name:
+    - 游戏风云
+  scraper:
+    tvmao: SITV-GAME
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+东方财经:
+  name:
+    - 东方财经
+  scraper:
+    tvmao: SITV14
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+足球频道:
+  name:
+    - 足球频道
+  scraper:
+    tvmao: NMGZQ
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中华美食:
+  name:
+    - 中华美食
+  scraper:
+    tvmao: CHINA-FOODTV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+中华特产:
+  name:
+    - 中华特产
+  scraper:
+    tvmao: ZHTCTV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+收藏天下:
+  name:
+    - 收藏天下
+  scraper:
+    tvmao: SHOUCANGTIAXIA
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+上海纪实人文:
+  name:
+    - 上海纪实人文
+  scraper:
+    tvmao: SHHAI6
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+弈坛春秋:
+  name:
+    - 弈坛春秋
+  scraper:
+    tvmao: BAMC10
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+动感音乐:
+  name:
+    - 动感音乐
+  scraper:
+    tvmao: BAMC5
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+百姓健康:
+  name:
+    - 百姓健康
+  scraper:
+    tvmao: CHTV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+生态环境:
+  name:
+    - 生态环境
+  scraper:
+    tvmao: EETV
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+生活时尚:
+  name:
+    - 生活时尚
+  scraper:
+    tvmao: SITV-FASHION
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+金鹰卡通:
+  name:
+    - 金鹰卡通
+  scraper:
+    tvmao: HUNANTV2
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+法治天地:
+  name:
+    - 法治天地
+  scraper:
+    tvmao: SITV3
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+金色学堂:
+  name:
+    - 金色学堂
+  scraper:
+    tvmao: SITV6
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+京视剧场:
+  name:
+    - 京视剧场
+  scraper:
+    tvmao: BAMC8
+    cctv: 
+  refresh: once
+  recap: 7
+  preview: 2
+
+zjdj:
+  name:
+    - 之江纪录
+  scraper:
+    cztv: 112
+  refresh: once
+  recap: 7
+  preview: 2
+
+htv:
+  name:
+    - 杭州1综合
+  scraper:
+    tvsou: 630175b5
+  refresh: once
+  recap: 7
+  preview: 2
+
+DiscoveryChannelAsia.tw:
+  name:
+    - 探索频道亚洲
+  scraper:
+    discoverychannel_tw: 4
+  refresh: once
+  recap: 7
+  preview: 2
+
+DiscoveryChannelChinese.tw:
+  name:
+    - 探索频道
+  scraper:
+    discoverychannel_tw: 1
+  refresh: once
+  recap: 7
+  preview: 2
+
+AninmalPlanet.tw:
+  name:
+    - 动物星球
+  scraper:
+    discoverychannel_tw: 2
   refresh: once
   recap: 7
   preview: 2
