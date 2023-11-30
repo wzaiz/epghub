@@ -259,9 +259,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-第一剧场:
+CCTV第一剧场:
   name:
-    - 第一剧场
+    - CCTV第一剧场
   scraper:
     tvmao: CCTVPAYFEE3
     cctv: 
@@ -269,9 +269,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-风云剧场:
+CCTV风云剧场:
   name:
-    - 风云剧场
+    - CCTV风云剧场
   scraper:
     tvmao: CCTVPAYFEE4
     cctv: 
@@ -279,9 +279,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-怀旧剧场:
+CCTV怀旧剧场:
   name:
-    - 怀旧剧场
+    - CCTV怀旧剧场
   scraper:
     tvmao: CCTVPAYFEE7
     cctv: 
@@ -289,9 +289,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-世界地理:
+CCTV世界地理:
   name:
-    - 世界地理
+    - CCTV世界地理
   scraper:
     tvmao: CCTVPAYFEE5
     cctv: 
@@ -299,9 +299,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-风云音乐:
+CCTV风云音乐:
   name:
-    - 风云音乐
+    - CCTV风云音乐
   scraper:
     tvmao: CCTVPAYFEE2
     cctv: 
@@ -309,9 +309,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-兵器科技:
+CCTV兵器科技:
   name:
-    - 兵器科技
+    - CCTV兵器科技
   scraper:
     tvmao: CCTVPAYFEE8
     cctv: 
@@ -319,9 +319,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-风云足球:
+CCTV风云足球:
   name:
-    - 风云足球
+    - CCTV风云足球
   scraper:
     tvmao: CCTVPAYFEE1
     cctv: 
@@ -329,9 +329,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-高尔夫网球:
+CCTV高尔夫网球:
   name:
-    - 高尔夫网球
+    - CCTV高尔夫网球
   scraper:
     tvmao: CCTVPAYFEE13
     cctv: 
@@ -339,9 +339,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-女性时尚:
+CCTV女性时尚:
   name:
-    - 女性时尚
+    - CCTV女性时尚
   scraper:
     tvmao: CCTVPAYFEE9
     cctv: 
@@ -349,9 +349,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-文化精品:
+CCTV文化精品:
   name:
-    - 文化精品
+    - CCTV文化精品
   scraper:
     tvmao: CCTVPAYFEE14
     cctv: 
@@ -359,9 +359,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-央视台球:
+CCTV央视台球:
   name:
-    - 央视台球
+    - CCTV央视台球
   scraper:
     tvmao: CCTVPAYFEE36
     cctv: 
@@ -369,9 +369,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-电视指南:
+CCTV电视指南:
   name:
-    - 电视指南
+    - CCTV电视指南
   scraper:
     tvmao: CCTVPAYFEE6
     cctv: 
@@ -379,9 +379,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-中视购物:
+CCTV中视购物:
   name:
-    - 中视购物
+    - CCTV中视购物
   scraper:
     tvmao: CCTVPAYFEE15
     cctv: 
@@ -389,9 +389,9 @@ cctv8k:
   recap: 7
   preview: 2
 
-卫生健康:
+CCTV卫生健康:
   name:
-    - 卫生健康
+    - CCTV卫生健康
   scraper:
     tvmao: SITV13
     cctv: 
