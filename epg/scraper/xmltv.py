@@ -2,8 +2,6 @@ from epg.scraper import __xmltv
 from epg.model import Channel, Program
 from datetime import datetime, date, timezone
 
-scraper_params = 'https://epg.112114.xyz/pp.xml'
-
 def update(channel: Channel, scraper_params: str, dt: date = datetime.today().date()) -> bool:
     if scraper_params.find('@http') == -1:
         scraper_url = scraper_params
