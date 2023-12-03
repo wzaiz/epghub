@@ -2,7 +2,7 @@ CCTV1:
   name:
     - CCTV1
   scraper:
-    _xmltv: CCTV1
+    __xmltv: CCTV1
   refresh: once
   recap: 7
   preview: 2
@@ -11,7 +11,7 @@ CCTV1:
   name:
     - 四川卫视
   scraper:
-    _xmltv: 四川卫视
+    __xmltv: 四川卫视
   refresh: once
   recap: 7
   preview: 2
