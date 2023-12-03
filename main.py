@@ -13,7 +13,7 @@ CF_PAGES = os.getenv('CF_PAGES')
 CF_PAGES_URL = os.getenv('CF_PAGES_URL')
 DEPLOY_HOOK = os.getenv('DEPLOY_HOOK')
 CLOUDFLARE_API_TOKEN = os.getenv('CLOUDFLARE_API_TOKEN')
-XMLTV_URL = os.getenv('XMLTV_URL','')
+XMLTV_URL = os.getenv('XMLTV_URL','https://epg.112114.xyz/pp.xml')
 TZ = os.getenv('TZ')
 if TZ == None:
     print("!!!Please set TZ environment variables to define timezone or it will use system timezone by default!!!")
