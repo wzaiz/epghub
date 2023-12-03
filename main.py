@@ -36,7 +36,7 @@ if not os.path.exists(os.path.join(os.getcwd(), 'web')):
 
 channels = utils.load_config(config_path)
 
-if XMLTV_URL == '':
+if XMLTV_URL == 'https://epg.112114.xyz/pp.xml':
     xml_channels = []
     print("!!!Please set XMLTV_URL environment variables to reuse XML!!!")
 else:
