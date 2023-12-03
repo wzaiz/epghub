@@ -1,1 +1,17 @@
+cctv1:
+  name:
+    - CCTV1
+  scraper:
+    xmltv: CCTV1
+  refresh: once
+  recap: 7
+  preview: 2
 
+四川卫视:
+  name:
+    - 四川卫视
+  scraper:
+    xmltv: 四川卫视
+  refresh: once
+  recap: 7
+  preview: 2
