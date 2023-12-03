@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 from croniter import croniter
 import os
 import shutil
+os.environ['xmltv_url'] = 'https://epg.112114.xyz/pp.xml'
 
 CF_PAGES = os.getenv('CF_PAGES')
 CF_PAGES_URL = os.getenv('CF_PAGES_URL')
