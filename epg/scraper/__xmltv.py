@@ -5,7 +5,7 @@ from datetime import datetime
 from io import BytesIO
 from . import headers
 from epg.scraper import tz_shanghai
-export xmltv_url = 'https://epg.112114.xyz/pp.xml'
+os.environ['xmltv_url'] = 'https://epg.112114.xyz/pp.xml'
 
 def get_channels(xmltv_url: str, dtd: etree.DTD | None = None) -> list[Channel]:
     try:
